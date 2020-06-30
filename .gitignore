@@ -6,3 +6,11 @@ yarn.lock
 package-lock.json
 app.yaml
 /dist
+sketches/audiocontroller
+sketches/bodytranscriber
+sketches/collagecreator
+sketches/colormapper
+sketches/imagemapper
+sketches/movementmultiplier
+sketches/shapeshifter
+sketches/texttrailer
